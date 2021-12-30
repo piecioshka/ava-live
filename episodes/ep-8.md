@@ -1,5 +1,6 @@
 # ...
 
-> AVA — Jak obliczyć pokrycie kodu? — Odc. 8
+> AVA — Odc. 8
 
-* Wykorzystanie paczki "c8" jako wsparcie do Code Coverage
+* Integracja z narzędziem:
+  https://github.com/testdouble/testdouble.js

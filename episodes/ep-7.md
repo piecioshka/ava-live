@@ -2,4 +2,5 @@
 
 > AVA — Odc. 7
 
-* Custom Matcher
+* Integracja z VSC
+* Integracja z WebStormem
