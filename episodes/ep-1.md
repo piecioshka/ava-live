@@ -7,6 +7,7 @@ Zapraszam na wspólne hackowanie frameworka AVA. Narzędzie wykorzystuję w pryw
 W odcinku:
 
 * https://github.com/avajs/ava
+* https://github.com/piecioshka/boilerplate-ava
 * Co to jest za narzędzie?
 * Jaki problem rozwiązuje?
 * Kto jest autorem?
@@ -14,4 +15,4 @@ W odcinku:
 * Test jednostkowy synchroniczny
 * Wykorzystanie paczki "esm" jako wsparcie do ECMAScript Modules
 
-#Webinar #Testowanie #JavaScript
+#Lifecoding #JavaScript
