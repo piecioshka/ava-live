@@ -1,5 +1,5 @@
 # ...
 
-> AVA — Jak obliczyć pokrycie kodu? — Odc. 5
+> AVA — Odc. 5
 
-* Wykorzystanie paczki "c8" jako wsparcie do Code Coverage
+* Jak zamockować dane w testach bazujących na frameworku AVA?

@@ -2,4 +2,4 @@
 
 > AVA — Odc. 6
 
-* Przepisanie na TypeScript
+* Jak testować DOM?

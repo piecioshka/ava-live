@@ -2,4 +2,4 @@
 
 > AVA — Odc. 3
 
-* Testowanie snapshotów
+* Jak stworzyć test asynchroniczny bazujący na `Promise`?

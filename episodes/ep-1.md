@@ -12,7 +12,9 @@ W odcinku:
 * Jaki problem rozwiązuje?
 * Kto jest autorem?
 * Porównanie z tap, na którym bazuje składania AVA
-* Test jednostkowy synchroniczny
-* Wykorzystanie paczki "esm" jako wsparcie do ECMAScript Modules
+* Jak wygląda test jednostkowy synchroniczny?
+* Wykorzystanie paczki "esm" jako wsparcie do ECMAScript Modules dla AVA v3.x
+* Jak się wymawia nazwę tej biblioteki?
+  + https://github.com/avajs/ava/#how-is-the-name-written-and-pronounced
 
-#Lifecoding #JavaScript
+#Lifecoding #JavaScript #Testing

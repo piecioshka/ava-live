@@ -1,4 +1,4 @@
-# ...
+# https://www.youtube.com/watch?v=pxCgWIEsXJU
 
 > AVA — Pierwsze testy — Odc. 2
 
@@ -6,10 +6,15 @@ Drugi odcinek, w którym to napiszemy kawałek aplikacji a potem do niej test sy
 
 W odcinku:
 
-* Piszemy test synchroniczny oraz asynchroniczny
-* Porównanie z innymi bibliotekami:
+* 3 dni temu było (3 stycznia 2022) nowe wydanie — 4.0.0
+  + https://github.com/avajs/ava/releases/tag/v4.0.0
+* Jak uruchomić "watch mode"?
+* Jak napisać test synchroniczny?
+* Jak napisać test asynchroniczny bazujący na Callbacks?
+* Porównanie z innymi narzędzami:
   + https://github.com/taylorhakes/painless#compared-to-other-libraries-
   + https://volument.com/blog/img/baretest/tester-matrix-big.png
-* https://github.com/piecioshka/simple-data-table
+* Produkcyjne zastosowanie AVA
+  + https://github.com/piecioshka/simple-data-table
 
-#Lifecoding #JavaScript
+#Lifecoding #JavaScript #Callbacks
