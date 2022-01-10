@@ -10,11 +10,11 @@ W odcinku:
   + https://github.com/avajs/ava/releases/tag/v4.0.0
 * Jak uruchomić "watch mode"?
 * Jak napisać test synchroniczny?
-* Jak napisać test asynchroniczny bazujący na Callbacks?
+* Jak napisać test asynchroniczny bazujący na synchronicznym Callback?
 * Porównanie z innymi narzędzami:
   + https://github.com/taylorhakes/painless#compared-to-other-libraries-
   + https://volument.com/blog/img/baretest/tester-matrix-big.png
 * Produkcyjne zastosowanie AVA
   + https://github.com/piecioshka/simple-data-table
 
-#Lifecoding #JavaScript #Callbacks
+#Lifecoding #JavaScript #Callback
