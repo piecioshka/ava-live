@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "name": "03-async",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "ava"
+  },
+  "devDependencies": {
+    "ava": "^4.0.1",
+    "isomorphic-fetch": "^3.0.0",
+    "nock": "^13.2.2",
+    "rxjs": "^7.5.2"
+  }
+}
