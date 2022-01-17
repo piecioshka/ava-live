@@ -2,6 +2,9 @@
 
 > AVA — Przegląd API — Odc. 4
 
+Czwarty odcinek rozeznania na temat frameworka AVA! W tym odcinku poznamy
+całe API biblioteki! Limit czasowy to 30 minut! Będę bez dygresji!
+
 * Przegląd API:
   + test.failing
   + test.only
