@@ -1,6 +1,7 @@
 # ...
 
-> AVA — Odc. 9
+> AVA — Custom Matcher — Odc. 9
 
-* Jak wykonać testy sekwencyjnie?
-  + Użycie funkcji "test.serial"
+W odcinku:
+
+* Jak napisać Custom Matcher w AVA?

@@ -1,5 +1,7 @@
 # ...
 
-> AVA — Odc. 6
+> AVA — Mockowanie — Odc. 6
 
-* Jak testować DOM?
+W odcinku:
+
+* Jak zamockować dane w testach bazujących na frameworku AVA?
