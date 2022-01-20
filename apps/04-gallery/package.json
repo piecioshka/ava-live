@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "name": "04-gallery",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "ava",
+    "test:watch": "ava --watch"
+  },
+  "devDependencies": {
+    "ava": "^4.0.1"
+  }
+}
