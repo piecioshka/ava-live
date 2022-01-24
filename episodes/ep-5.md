@@ -2,6 +2,10 @@
 
 > AVA — Execution Context & Assertions — Odc. 5
 
+W piątek odsłonie dowiemy się, jakie mamy możliwość asercji, tj. weryfikacji stanu.
+Zapraszam na odcinek, w który będzie DUŻO CZERWONYCH TESTÓW!
+(ale na zakończenie odcinka, wszystko będzie świecić się na zielono)
+
 W odcinku:
 
 * Czym jest Execution Context? (t)
