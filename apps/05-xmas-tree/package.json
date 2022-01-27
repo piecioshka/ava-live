@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "name": "05-xmas-tree",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "ava"
+  },
+  "devDependencies": {
+    "ava": "^4.0.1"
+  }
+}

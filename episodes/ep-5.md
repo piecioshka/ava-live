@@ -1,10 +1,10 @@
-# ...
+# https://www.youtube.com/watch?v=Sdb3UpQCz5w
 
 > AVA — Execution Context & Assertions — Odc. 5
 
-W piątek odsłonie dowiemy się, jakie mamy możliwość asercji, tj. weryfikacji stanu.
-Zapraszam na odcinek, w który będzie DUŻO CZERWONYCH TESTÓW!
-(ale na zakończenie odcinka, wszystko będzie świecić się na zielono)
+W piątej odsłonie dowiemy się, jakie mamy możliwość asercji w AVA, tj. weryfikacji stanu. Zapraszam na odcinek, w którym będzie DUŻO CZERWONYCH TESTÓW! (ale na zakończenie odcinka, wszystkie będą świecić się na zielono) 🔴 🟢
+
+🔥 Start: Czwartek 20:00 🔥
 
 W odcinku:
 
@@ -12,3 +12,5 @@ W odcinku:
   + https://github.com/avajs/ava/blob/main/docs/02-execution-context.md
 * Typy asercji
   + https://github.com/avajs/ava/blob/main/docs/03-assertions.md
+* Timeout
+  + https://github.com/avajs/ava/blob/main/docs/07-test-timeouts.md
