@@ -3,7 +3,7 @@ const test = require("ava");
 const nock = require("nock");
 const { makeRequest } = require("./makeRequest");
 
-const exampleDomain = "https://fakes.herokuapp.com";
+const exampleDomain = "https://fakes.piecioshka.io";
 const examplePath = "/products";
 const exampleUrl = exampleDomain + examplePath;
 
