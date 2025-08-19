@@ -1,6 +1,6 @@
-<center>
+<p align="center">
   <img src="logo-ava.svg" style="width: 300px">
-</center>
+</p>
 
 ## Odcinki
 
