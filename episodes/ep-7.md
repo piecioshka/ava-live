@@ -4,5 +4,5 @@
 
 W odcinku:
 
-* Jak użyć JSDom w AVA?
-* Browser testing
+- Jak użyć JSDom w AVA?
+- Browser testing

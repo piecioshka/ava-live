@@ -1,14 +1,14 @@
-<div style="text-align: center;">
-  <img src="logo-ava.svg" style="width: 400px">
-</div>
+<center>
+  <img src="logo-ava.svg" style="width: 300px">
+</center>
 
 ## Odcinki
 
-1. [Simple Test](./episodes/ep-1.md) [[YT](https://www.youtube.com/watch?v=xSON_R3tMfE)]
-2. [Task Manager](./episodes/ep-2.md) [[YT](https://www.youtube.com/watch?v=pxCgWIEsXJU)]
-3. [Async](./episodes/ep-3.md) [[YT](https://www.youtube.com/watch?v=EEs6Y60LgaU)]
-4. [Gallery](./episodes/ep-4.md) [[YT](https://www.youtube.com/watch?v=2Ylez69fu68)]
-5. [XMas Tree](./episodes/ep-5.md) [[YT](https://www.youtube.com/watch?v=Sdb3UpQCz5wg)]
+1. Sprawdzenie możliwości - [notatka](./episodes/ep-1.md) - [YT](https://www.youtube.com/watch?v=xSON_R3tMfE)
+2. Pierwsze testy - [notatka](./episodes/ep-2.md) - [YT](https://www.youtube.com/watch?v=pxCgWIEsXJU)
+3. Testy asynchroniczne - [notatka](./episodes/ep-3.md) - [YT](https://www.youtube.com/watch?v=EEs6Y60LgaU)
+4. Przegląd API - [notatka](./episodes/ep-4.md) - [YT](https://www.youtube.com/watch?v=2Ylez69fu68)
+5. Execution Context & Assertions - [notatka](./episodes/ep-5.md) - [YT](https://www.youtube.com/watch?v=Sdb3UpQCz5wg)
 
 ## Jak się wymawia nazwę tej biblioteki?
 

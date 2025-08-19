@@ -7,12 +7,12 @@ całe API biblioteki! Limit czasowy to 30 minut! Będzie bez dygresji!
 
 W odcinku:
 
-* Jak włączyć tylko jeden test w AVA?
-* Jak wyłączyć test w AVA?
-* Jak zarejestrować funkcje przed uruchomieniem testów?
-* Jak zarejestrować funkcje po uruchomieniu testów?
-* Jak zdefiniować macro w AVA?
-* Jak uruchomić testy sekwencyjnie?
-* Jak wyciągnąć ścieżkę do pliku z aktualnie uruchomionym testem?
+- Jak włączyć tylko jeden test w AVA?
+- Jak wyłączyć test w AVA?
+- Jak zarejestrować funkcje przed uruchomieniem testów?
+- Jak zarejestrować funkcje po uruchomieniu testów?
+- Jak zdefiniować macro w AVA?
+- Jak uruchomić testy sekwencyjnie?
+- Jak wyciągnąć ścieżkę do pliku z aktualnie uruchomionym testem?
 
 #Lifecoding #JavaScript #API

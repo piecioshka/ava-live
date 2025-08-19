@@ -8,6 +8,6 @@ W szóstej odsłonie zajmiemy się mockowaniem danych! Czy jak używać: fakes, 
 
 W odcinku:
 
-* Jak zamockować dane w testach bazujących na frameworku AVA?
+- Jak zamockować dane w testach bazujących na frameworku AVA?
 
 #Lifecoding #JavaScript #Mockowanie

@@ -4,4 +4,4 @@
 
 W odcinku:
 
-* Jak napisać Custom Matcher w AVA?
+- Jak napisać Custom Matcher w AVA?
