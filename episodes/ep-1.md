@@ -1,4 +1,4 @@
-# https://www.youtube.com/watch?v=xSON_R3tMfE
+# [2021-12-30] https://www.youtube.com/watch?v=xSON_R3tMfE
 
 > AVA — Sprawdzenie możliwości — Odc. 1
 
