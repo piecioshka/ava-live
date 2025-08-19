@@ -9,6 +9,13 @@
 3. Testy asynchroniczne - [notatka](./episodes/ep-3.md) - [YT](https://www.youtube.com/watch?v=EEs6Y60LgaU)
 4. Przegląd API - [notatka](./episodes/ep-4.md) - [YT](https://www.youtube.com/watch?v=2Ylez69fu68)
 5. Execution Context & Assertions - [notatka](./episodes/ep-5.md) - [YT](https://www.youtube.com/watch?v=Sdb3UpQCz5wg)
+6. Mockowanie - [notatka](./episodes/ep-6.md)
+7. Jak testować DOM? - [notatka](./episodes/ep-7.md)
+8. Testowanie snapshotów - [notatka](./episodes/ep-8.md)
+9. Custom Matcher - [notatka](./episodes/ep-9.md)
+10. Code Coverage - [notatka](./episodes/ep-10.md)
+11. TypeScript - [notatka](./episodes/ep-11.md)
+12. Debugowanie w edytorach - [notatka](./episodes/ep-12.md)
 
 ## Jak się wymawia nazwę tej biblioteki?
 
